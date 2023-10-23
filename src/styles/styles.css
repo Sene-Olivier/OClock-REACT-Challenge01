@@ -1,0 +1,21 @@
+#header {
+  margin: 30px auto;
+  border: 1px solid grey;
+  width: 30%;
+}
+
+#main {
+  margin: 0 auto;
+  border: 1px solid grey;
+  width: 30%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+}
+
+#footer {
+  margin: 30px auto;
+  border: 1px solid grey;
+  width: 30%;
+}
